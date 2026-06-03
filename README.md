@@ -75,7 +75,7 @@
 ### 💼 Experience Highlights
 
 **DevOps Engineer — Platform Tooling & Observability** · Amdocs, Pune · *Jun 2024 – Present*
-- Built **5 AI-powered internal MCP tool servers (105+ tools)** on Kubernetes with Helm, enabling self-service infrastructure operations across the org.
+- Worked on **AI-powered internal MCP tool servers (105+ tools)** on Kubernetes with Helm, enabling self-service infrastructure operations across the org.
 - Developed a **real-time operations dashboard** (FastAPI + PostgreSQL + Redis) aggregating metrics from Kubernetes pod logs and internal APIs, with automated email alerting.
 - Set up **Prometheus + Grafana monitoring across 2 regions** with 8 alert rules covering replication lag, sync health, license utilization, and checkpoint failures.
 - Created **automated sanity workflows** (SSL, API health, storage, replication, performance) with scheduled HTML reports.
@@ -87,7 +87,7 @@
 - Implemented **SonarQube quality gates and Nexus artifact management — reduced reported vulnerabilities by 40%**.
 - Wrote **Ansible playbooks** for Bitbucket SSL rotation, Grafana upgrades, and fleet-wide config management.
 
-**Associate DevOps Engineer** · Cognizant, Pune · *Jun 2021 – Jan 2022*
+**Associate DevOps Engineer** · Cognizant, Pune · *Nov 2019 – Jan 2022*
 - Built Jenkins CI/CD pipelines **reducing manual deployment effort by 60%**.
 - Integrated **Splunk + ServiceNow**, improving SLA compliance by 20%.
 
