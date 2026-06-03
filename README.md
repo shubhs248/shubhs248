@@ -19,10 +19,10 @@
 
 **DevOps & Platform Engineer with 7+ years of experience** in CI/CD, infrastructure automation, and observability.
 
-- 🔭 I build internal **platform tools and monitoring systems at Amdocs** — managing 200+ Nexus instances, multi-region Artifactory, Jenkins fleets, and Bitbucket DC and many more.
-- 🤖 Recently provisioned and built **Multiple AI-powered internal MCP tool servers (105+ tools)** on Kubernetes with Helm for self-service infrastructure operations.
+- 🔭 I build **internal platform tools and monitoring systems** — managing artifact repositories, CI/CD fleets, and source-control platforms at scale.
+- 🤖 Recently built **AI-powered internal tool servers** on Kubernetes with Helm for self-service infrastructure operations.
 - 📊 I run **Prometheus/Grafana observability at scale** and write **Python-based tooling** to remove toil.
-- 🎓 **Post Graduate Program in Cloud Computing** (Great Learning).
+- 🎓 Pursuing a **Post Graduate Program in Cloud Computing** (Great Learning).
 - 📍 Based in Pune, India.
 - 💬 Ask me about **CI/CD, Kubernetes, observability, artifact management, and platform engineering**.
 
@@ -75,9 +75,9 @@
 ### 💼 Experience Highlights
 
 **DevOps Engineer — Platform Tooling & Observability** · Amdocs, Pune · *Jun 2024 – Present*
-- Worked on **AI-powered internal MCP tool servers (105+ tools)** on Kubernetes with Helm, enabling self-service infrastructure operations across the org.
+- Built **AI-powered internal tool servers (MCP)** on Kubernetes with Helm, exposing a broad catalog of self-service infrastructure operations across the org.
 - Developed a **real-time operations dashboard** (FastAPI + PostgreSQL + Redis) aggregating metrics from Kubernetes pod logs and internal APIs, with automated email alerting.
-- Set up **Prometheus + Grafana monitoring across 2 regions** with 8 alert rules covering replication lag, sync health, license utilization, and checkpoint failures.
+- Set up **multi-region Prometheus + Grafana monitoring** with alerting on replication lag, sync health, license utilization, and checkpoint failures.
 - Created **automated sanity workflows** (SSL, API health, storage, replication, performance) with scheduled HTML reports.
 - Developed **17+ CI/CD pipelines** for provisioning, certificate rotation, dependency scanning, and build lifecycle management.
 
