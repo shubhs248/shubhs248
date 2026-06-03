@@ -19,10 +19,10 @@
 
 **DevOps & Platform Engineer with 7+ years of experience** in CI/CD, infrastructure automation, and observability.
 
-- 🔭 I build internal **platform tools and monitoring systems at Amdocs** — managing 60+ Nexus instances, multi-region Artifactory, Jenkins fleets, and Bitbucket DC.
-- 🤖 Recently built **5 AI-powered internal MCP tool servers (105+ tools)** on Kubernetes with Helm for self-service infrastructure operations.
+- 🔭 I build internal **platform tools and monitoring systems at Amdocs** — managing 200+ Nexus instances, multi-region Artifactory, Jenkins fleets, and Bitbucket DC and many more.
+- 🤖 Recently provisioned and built **Multiple AI-powered internal MCP tool servers (105+ tools)** on Kubernetes with Helm for self-service infrastructure operations.
 - 📊 I run **Prometheus/Grafana observability at scale** and write **Python-based tooling** to remove toil.
-- 🎓 Pursuing a **Post Graduate Program in Cloud Computing** (Great Learning).
+- 🎓 **Post Graduate Program in Cloud Computing** (Great Learning).
 - 📍 Based in Pune, India.
 - 💬 Ask me about **CI/CD, Kubernetes, observability, artifact management, and platform engineering**.
 
