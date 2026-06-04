@@ -102,17 +102,21 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/shubhs248?label=Followers&style=for-the-badge&logo=github&labelColor=16213e&color=38bdf8" alt="Followers" />
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=shubhs248&label=Profile%20Views&style=for-the-badge&color=38bdf8" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/shubhs248">
+    <img src="https://img.shields.io/badge/GitHub-shubhs248-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shubhs248/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shubhs248&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak — total contributions, current & longest streak" />
-</p>
+<p align="center"><sub>📊 Live contribution graph &amp; activity are shown on my profile above.</sub></p>
 
 ---
 
