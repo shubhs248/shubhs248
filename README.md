@@ -1,129 +1,132 @@
-<h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">DevOps & Platform Engineer · CI/CD · Kubernetes · Observability · Automation</h3>
+<!-- ===== Animated header banner ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,30&height=210&section=header&text=Shubham%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%26%20Platform%20Engineer&descAlignY=56&descSize=22" alt="Shubham Sharma" />
 
-<p align="center">
-  <a href="https://github.com/shubhs248">
-    <img src="https://komarev.com/ghpvc/?username=shubhs248&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://www.linkedin.com/in/shubhs248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shubhs248@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shubhs248@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<!-- ===== Typing animation ===== -->
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=DevOps+%26+Platform+Engineer;7%2B+years+in+CI%2FCD+%26+infra+automation;Kubernetes+%7C+Helm+%7C+Terraform+%7C+Ansible;Prometheus+%2F+Grafana+observability+at+scale;I+automate+everything+that+can+break)](https://github.com/shubhs248)
 
-### 🚀 About Me
+<a href="https://www.linkedin.com/in/shubhs248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shubhs248@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/shubhs248"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=shubhs248&label=Profile%20Views&style=for-the-badge&color=38bdf8" alt="Profile views" />
 
-**DevOps & Platform Engineer with 7+ years of experience** in CI/CD, infrastructure automation, and observability.
-
-- 🔭 I build **internal platform tools and monitoring systems** — managing artifact repositories, CI/CD fleets, and source-control platforms at scale.
-- 🤖 Recently built **AI-powered internal tool servers** on Kubernetes with Helm for self-service infrastructure operations.
-- 📊 I run **Prometheus/Grafana observability at scale** and write **Python-based tooling** to remove toil.
-- 🎓 Completed a **Post Graduate Program in Cloud Computing** (Great Learning).
-- 📍 Based in Pune, India.
-- 💬 Ask me about **CI/CD, Kubernetes, observability, artifact management, and platform engineering**.
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-**Containers & Orchestration**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+### 🎯 What I Do
+- ⚙️ Design & run **CI/CD pipelines** end to end
+- ☸️ Operate workloads on **Kubernetes** with Helm
+- 📊 Build **Prometheus / Grafana** observability
+- 🤖 Kill toil with **Python, Bash, Ansible, Terraform**
+- 📦 Manage **artifact & source-control platforms** at scale
 
-**CI/CD, IaC & SCM**
+</td>
+<td width="50%" valign="top">
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🔭 Currently
+- 🏗️ Building **internal platform tools** & monitoring systems
+- 🤝 Developing **AI-powered MCP tool servers** on K8s
+- 🎓 Completed **PGP in Cloud Computing**
+- 🌱 Going deeper into **platform engineering & SRE**
+- 💬 Ask me about **CI/CD, K8s, observability**
 
-**Observability**
+</td>
+</tr>
+</table>
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Artifact & Quality**
-
-![Nexus](https://img.shields.io/badge/Sonatype%20Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
-![Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+```yaml
+Shubham Sharma · DevOps & Platform Engineer · 7+ yrs · Pune, India 🇮🇳
+mindset: "Automate everything that can break; monitor the rest."
+```
 
 ---
 
-### 💼 Experience Highlights
+## 🛠️ Tech Stack
 
-**DevOps Engineer — Platform Tooling & Observability** · Amdocs, Pune · *Jun 2024 – Present*
-- Built **AI-powered internal tool servers (MCP)** on Kubernetes with Helm, exposing a broad catalog of self-service infrastructure operations across the org.
-- Developed a **real-time operations dashboard** (FastAPI + PostgreSQL + Redis) aggregating metrics from Kubernetes pod logs and internal APIs, with automated email alerting.
-- Set up **multi-region Prometheus + Grafana monitoring** with alerting on replication lag, sync health, license utilization, and checkpoint failures.
-- Created **automated sanity workflows** (SSL, API health, storage, replication, performance) with scheduled HTML reports.
-- Developed **17+ CI/CD pipelines** for provisioning, certificate rotation, dependency scanning, and build lifecycle management.
+<div align="center">
 
-**DevOps Engineer** · Amdocs, Pune · *Jan 2022 – Jun 2024*
-- Built and maintained **CI/CD pipelines (Jenkins + Azure DevOps) for 20+ applications** across dev, staging, and production.
-- Containerized legacy apps with Docker/Kubernetes; set up **Terraform** for repeatable multi-environment provisioning.
-- Implemented **SonarQube quality gates and Nexus artifact management — reduced reported vulnerabilities by 40%**.
-- Wrote **Ansible playbooks** for Bitbucket SSL rotation, Grafana upgrades, and fleet-wide config management.
+### Containers · CI/CD · IaC
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,gitlab&theme=dark" alt="containers ci/cd iac" />
 
-**Associate DevOps Engineer** · Cognizant, Pune · *Jun 2021 – Jan 2022*
-- Built Jenkins CI/CD pipelines **reducing manual deployment effort by 60%**.
-- Integrated **Splunk + ServiceNow**, improving SLA compliance by 20%.
+### Languages · Frameworks
+<img src="https://skillicons.dev/icons?i=python,bash,fastapi,postgres,redis&theme=dark" alt="languages" />
 
----
+### Cloud · Observability
+<img src="https://skillicons.dev/icons?i=aws,azure,grafana,prometheus,linux,nginx&theme=dark" alt="cloud observability" />
 
-### 🏅 Certifications
+**Also working with:**
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
-![AZ-900](https://img.shields.io/badge/Azure-Fundamentals%20(AZ--900)-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AZ-204](https://img.shields.io/badge/Azure-Developer%20Associate%20(AZ--204)-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL-v3-009639?style=flat)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Nexus](https://img.shields.io/badge/Sonatype%20Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
+![Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-40BE46?style=flat-square&logo=jfrog&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white)
 
----
-
-### 📈 GitHub
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhs248&label=Profile%20Views&style=for-the-badge&color=38bdf8" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/shubhs248">
-    <img src="https://img.shields.io/badge/GitHub-shubhs248-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/shubhs248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center"><sub>📊 Live contribution graph &amp; activity are shown on my profile above.</sub></p>
+</div>
 
 ---
 
-### 📫 Get in Touch
+## 💼 Experience Highlights
 
-- 📧 Email: **shubhs248@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/shubhs248/**
-- 🐙 GitHub: **https://github.com/shubhs248**
+> **DevOps Engineer — Platform Tooling & Observability** · Amdocs, Pune · *Jun 2024 – Present*
+> - 🤖 Built **AI-powered internal tool servers (MCP)** on Kubernetes with Helm, exposing a broad catalog of self-service infra operations.
+> - 📟 Developed a **real-time operations dashboard** (FastAPI + PostgreSQL + Redis) with automated email alerting on service health.
+> - 📈 Set up **multi-region Prometheus + Grafana monitoring** with alerting on replication, sync health, and capacity.
+> - 🔁 Built CI/CD pipelines for provisioning, certificate rotation, dependency scanning, and build lifecycle management.
 
-<p align="center"><i>“Automate everything that can be automated, monitor everything that can break.”</i></p>
+> **DevOps Engineer** · Amdocs, Pune · *Jan 2022 – Jun 2024*
+> - 🏗️ Built and maintained **CI/CD pipelines (Jenkins + Azure DevOps) for 20+ applications**.
+> - 📦 Containerized legacy apps with Docker/Kubernetes; used **Terraform** for multi-environment provisioning.
+> - 🛡️ Implemented **SonarQube quality gates** and artifact management — reduced reported vulnerabilities by **40%**.
+
+> **Associate DevOps Engineer** · Cognizant, Pune · *Jun 2021 – Jan 2022*
+> - ⚡ Built Jenkins CI/CD pipelines, **reducing manual deployment effort by 60%**.
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AZ-900](https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AZ-204](https://img.shields.io/badge/Azure-AZ--204-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-v3-009639?style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<!-- Contribution snake: generated by the GitHub Action in .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhs248/shubhs248/output/github-snake-gradient.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhs248/shubhs248/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shubhs248/shubhs248/output/github-snake-gradient.svg" />
+</picture>
+
+<sub>🐍 This snake eats my contribution graph — regenerated automatically every 12 hours.</sub>
+
+</div>
+
+---
+
+<!-- ===== Animated footer ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,30&height=120&section=footer" alt="footer" />
+
+<div align="center"><i>“Automate everything that can be automated, monitor everything that can break.”</i></div>
