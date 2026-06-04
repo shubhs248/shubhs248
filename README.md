@@ -22,7 +22,7 @@
 - 🔭 I build **internal platform tools and monitoring systems** — managing artifact repositories, CI/CD fleets, and source-control platforms at scale.
 - 🤖 Recently built **AI-powered internal tool servers** on Kubernetes with Helm for self-service infrastructure operations.
 - 📊 I run **Prometheus/Grafana observability at scale** and write **Python-based tooling** to remove toil.
-- 🎓 Pursuing a **Post Graduate Program in Cloud Computing** (Great Learning).
+- 🎓 Completed a **Post Graduate Program in Cloud Computing** (Great Learning).
 - 📍 Based in Pune, India.
 - 💬 Ask me about **CI/CD, Kubernetes, observability, artifact management, and platform engineering**.
 
@@ -87,7 +87,7 @@
 - Implemented **SonarQube quality gates and Nexus artifact management — reduced reported vulnerabilities by 40%**.
 - Wrote **Ansible playbooks** for Bitbucket SSL rotation, Grafana upgrades, and fleet-wide config management.
 
-**Associate DevOps Engineer** · Cognizant, Pune · *Nov 2019 – Jan 2022*
+**Associate DevOps Engineer** · Cognizant, Pune · *Jun 2021 – Jan 2022*
 - Built Jenkins CI/CD pipelines **reducing manual deployment effort by 60%**.
 - Integrated **Splunk + ServiceNow**, improving SLA compliance by 20%.
 
@@ -105,12 +105,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhs248&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhs248&layout=compact&theme=tokyonight&hide=html,css" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/shubhs248?label=Followers&style=for-the-badge&logo=github&labelColor=16213e&color=38bdf8" alt="Followers" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shubhs248&label=Profile%20Views&style=for-the-badge&color=38bdf8" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shubhs248&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=shubhs248&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak — total contributions, current & longest streak" />
 </p>
 
 ---
