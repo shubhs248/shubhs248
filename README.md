@@ -1,5 +1,5 @@
 <!-- ===== Animated header banner ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,30&height=210&section=header&text=Shubham%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%26%20Platform%20Engineer&descAlignY=56&descSize=22" alt="Shubham Sharma" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=210&section=header&text=Shubham%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%26%20Platform%20Engineer&descAlignY=58&descSize=20&descColor=ffffff" alt="Shubham Sharma" />
 
 <!-- ===== Typing animation ===== -->
 <div align="center">
@@ -53,16 +53,46 @@ mindset: "Automate everything that can break; monitor the rest."
 
 <div align="center">
 
-### Containers · CI/CD · IaC
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,gitlab&theme=dark" alt="containers ci/cd iac" />
+#### Containers · CI/CD · IaC
 
-### Languages · Frameworks
-<img src="https://skillicons.dev/icons?i=python,bash,fastapi,postgres,redis&theme=dark" alt="languages" />
+<table>
+  <tr>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=docker" width="46" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=kubernetes" width="46" alt="Kubernetes" /><br /><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=jenkins" width="46" alt="Jenkins" /><br /><sub><b>Jenkins</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=terraform" width="46" alt="Terraform" /><br /><sub><b>Terraform</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=ansible" width="46" alt="Ansible" /><br /><sub><b>Ansible</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=git" width="46" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=gitlab" width="46" alt="GitLab" /><br /><sub><b>GitLab</b></sub></td>
+  </tr>
+</table>
 
-### Cloud · Observability
-<img src="https://skillicons.dev/icons?i=aws,azure,grafana,prometheus,linux,nginx&theme=dark" alt="cloud observability" />
+#### Languages · Frameworks
 
-**Also working with:**
+<table>
+  <tr>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=python" width="46" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=bash" width="46" alt="Bash" /><br /><sub><b>Bash</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=fastapi" width="46" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=postgres" width="46" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=redis" width="46" alt="Redis" /><br /><sub><b>Redis</b></sub></td>
+  </tr>
+</table>
+
+#### Cloud · Observability
+
+<table>
+  <tr>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=aws" width="46" alt="AWS" /><br /><sub><b>AWS</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=azure" width="46" alt="Azure" /><br /><sub><b>Azure</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=grafana" width="46" alt="Grafana" /><br /><sub><b>Grafana</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=prometheus" width="46" alt="Prometheus" /><br /><sub><b>Prometheus</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=linux" width="46" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=nginx" width="46" alt="Nginx" /><br /><sub><b>Nginx</b></sub></td>
+  </tr>
+</table>
+
+#### Also working with
 
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
@@ -127,6 +157,6 @@ mindset: "Automate everything that can break; monitor the rest."
 ---
 
 <!-- ===== Animated footer ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,30&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=120&section=footer" alt="footer" />
 
 <div align="center"><i>“Automate everything that can be automated, monitor everything that can break.”</i></div>
