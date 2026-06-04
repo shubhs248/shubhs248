@@ -1,5 +1,5 @@
-<!-- ===== Animated header banner ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=210&section=header&text=Shubham%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%26%20Platform%20Engineer&descAlignY=58&descSize=20&descColor=ffffff" alt="Shubham Sharma" />
+<h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
+<h3 align="center">DevOps &amp; Platform Engineer · CI/CD · Kubernetes · Observability · Automation</h3>
 
 <!-- ===== Typing animation ===== -->
 <div align="center">
@@ -123,6 +123,11 @@ mindset: "Automate everything that can break; monitor the rest."
 
 > **Associate DevOps Engineer** · Cognizant, Pune · *Jun 2021 – Jan 2022*
 > - ⚡ Built Jenkins CI/CD pipelines, **reducing manual deployment effort by 60%**.
+> - 🔔 Integrated monitoring & incident-management tooling, improving SLA compliance by **20%**.
+
+> **Programmer Analyst — IT Operations** · Cognizant, Pune · *Nov 2019 – Jun 2021*
+> - 🛠️ Handled production incident response and supported critical IT operations.
+> - 🐍 Automated recurring tasks with **Python/Bash**, reducing resolution time.
 
 ---
 
@@ -150,7 +155,7 @@ mindset: "Automate everything that can break; monitor the rest."
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shubhs248/shubhs248/output/github-snake-gradient.svg" />
 </picture>
 
-<sub>🐍 This snake eats my contribution graph — regenerated automatically every 12 hours.</sub>
+<sub>🐍 This snake eats my contribution graph — regenerated automatically every month.</sub>
 
 </div>
 
