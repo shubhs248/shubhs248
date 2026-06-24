@@ -36,7 +36,11 @@ DevOps & Platform Engineer with **7+ years** designing and operating reliable, a
 **Containers · Orchestration · CI/CD · IaC**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,jenkins,azuredevops,terraform,ansible,git,github" alt="Containers, CI/CD, IaC"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github" alt="Containers, CI/CD, IaC"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
 </p>
 
 **Languages · Frameworks · Data**
