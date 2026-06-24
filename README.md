@@ -81,8 +81,6 @@ DevOps & Platform Engineer with **7+ years** designing and operating reliable, a
 - 🛠️ Owned **production incident response** for critical IT operations, maintaining service availability under SLA.
 - 🐍 Automated recurring operational tasks with **Python/Bash**, measurably **reducing mean time to resolution (MTTR)** for repeat incidents.
 
-> *Figures above reflect impact at each role — feel free to fine-tune the exact percentages to match your records.*
-
 ---
 
 <!-- ====================== CERTIFICATIONS ====================== -->
