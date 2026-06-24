@@ -98,7 +98,7 @@ DevOps & Platform Engineer with **7+ years** designing and operating reliable, a
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhs248&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhs248&show_icons=true&hide_border=true&count_private=true&theme=react&rank_icon=github" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhs248&hide_border=true&theme=react" alt="GitHub Streak"/>
 </p>
 
@@ -106,7 +106,6 @@ DevOps & Platform Engineer with **7+ years** designing and operating reliable, a
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhs248&layout=compact&hide_border=true&langs_count=8&theme=react" alt="Top Languages"/>
 </p>
 
-<!-- Contribution activity graph — a clean, dashboard-style line chart (fits the observability theme) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhs248&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
 </p>
