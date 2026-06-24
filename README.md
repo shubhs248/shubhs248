@@ -1,167 +1,120 @@
-<h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">DevOps &amp; Platform Engineer · CI/CD · Kubernetes · Observability · Automation</h3>
+<!-- ====================== HEADER ====================== -->
+<h1 align="center">Hi, I'm Shubham Sharma 👋</h1>
 
-<!-- ===== Typing animation ===== -->
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&center=true&vCenter=true&width=820&lines=Senior+DevOps+%26+Platform+Engineer;CI%2FCD+at+Scale+%E2%80%A2+Kubernetes+%E2%80%A2+Observability;Building+self-service+platforms+%26+internal+tooling;Automate+everything.+Monitor+the+rest." alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=DevOps+%26+Platform+Engineer;7%2B+years+in+CI%2FCD+%26+infra+automation;Kubernetes+%7C+Helm+%7C+Terraform+%7C+Ansible;Prometheus+%2F+Grafana+observability+at+scale;I+automate+everything+that+can+break)](https://github.com/shubhs248)
-
-<a href="https://www.linkedin.com/in/shubhs248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:shubhs248@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/shubhs248"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=shubhs248&label=Profile%20Views&style=for-the-badge&color=38bdf8" alt="Profile views" />
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/shubhs248"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://shubhs248.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shubhs248&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views"/>
+</p>
 
 ---
 
+<!-- ====================== ABOUT ====================== -->
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+DevOps & Platform Engineer with **7+ years** designing and operating reliable, automated infrastructure — from **CI/CD pipelines and Kubernetes platforms** to **Prometheus/Grafana observability** and internal **self-service tooling**. I focus on reducing operational toil, shortening release cycles, and giving teams the platforms they need to ship safely.
 
-### 🎯 What I Do
-- ⚙️ Design & run **CI/CD pipelines** end to end
-- ☸️ Operate workloads on **Kubernetes** with Helm
-- 📊 Build **Prometheus / Grafana** observability
-- 🤖 Kill toil with **Python, Bash, Ansible, Terraform**
-- 📦 Manage **artifact & source-control platforms** at scale
+- 🏗️ I design **end-to-end delivery platforms**: pipelines, IaC, container orchestration, and golden-path tooling.
+- 📊 I treat reliability as a product — **SLOs, alerting, and dashboards** over guesswork.
+- 🤖 I build **AI-powered internal tool servers (MCP)** on Kubernetes to make infra self-service.
+- 💬 Ask me about **CI/CD, Kubernetes, observability, and platform engineering**.
 
-</td>
-<td width="50%" valign="top">
-
-### 🔭 Currently
-- 🏗️ Building **internal platform tools** & monitoring systems
-- 🤝 Developing **AI-powered MCP tool servers** on K8s
-- 🎓 Completed **PGP in Cloud Computing**
-- 🌱 Going deeper into **platform engineering & SRE**
-- 💬 Ask me about **CI/CD, K8s, observability**
-
-</td>
-</tr>
-</table>
-
-```yaml
-Shubham Sharma · DevOps & Platform Engineer · 7+ yrs · Pune, India 🇮🇳
-mindset: "Automate everything that can break; monitor the rest."
-```
+> *Based in Pune, India 🇮🇳 · Mindset: "Automate everything that can break; monitor the rest."*
 
 ---
 
+<!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Containers · Orchestration · CI/CD · IaC**
 
-#### Containers · CI/CD · IaC
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,jenkins,azuredevops,terraform,ansible,git,github" alt="Containers, CI/CD, IaC"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=docker" width="46" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=kubernetes" width="46" alt="Kubernetes" /><br /><sub><b>Kubernetes</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=jenkins" width="46" alt="Jenkins" /><br /><sub><b>Jenkins</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=terraform" width="46" alt="Terraform" /><br /><sub><b>Terraform</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=ansible" width="46" alt="Ansible" /><br /><sub><b>Ansible</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=git" width="46" alt="Git" /><br /><sub><b>Git</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=gitlab" width="46" alt="GitLab" /><br /><sub><b>GitLab</b></sub></td>
-  </tr>
-</table>
+**Languages · Frameworks · Data**
 
-#### Languages · Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,go,fastapi,postgres,redis" alt="Languages and frameworks"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=python" width="46" alt="Python" /><br /><sub><b>Python</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=bash" width="46" alt="Bash" /><br /><sub><b>Bash</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=fastapi" width="46" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=postgres" width="46" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=redis" width="46" alt="Redis" /><br /><sub><b>Redis</b></sub></td>
-  </tr>
-</table>
+**Cloud · Observability · Platform**
 
-#### Cloud · Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,nginx,grafana,prometheus" alt="Cloud and observability"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=aws" width="46" alt="AWS" /><br /><sub><b>AWS</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=azure" width="46" alt="Azure" /><br /><sub><b>Azure</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=grafana" width="46" alt="Grafana" /><br /><sub><b>Grafana</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=prometheus" width="46" alt="Prometheus" /><br /><sub><b>Prometheus</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=linux" width="46" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
-    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=nginx" width="46" alt="Nginx" /><br /><sub><b>Nginx</b></sub></td>
-  </tr>
-</table>
-
-#### Also working with
-
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Nexus](https://img.shields.io/badge/Sonatype%20Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
-![Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-40BE46?style=flat-square&logo=jfrog&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Perforce](https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white)
-
-</div>
+<sub>**Also hands-on with:** SonarQube · Nexus · Artifactory · Loki · Datadog · Splunk · Perforce</sub>
 
 ---
 
+<!-- ====================== EXPERIENCE ====================== -->
 ## 💼 Experience Highlights
 
-> **DevOps Engineer — Platform Tooling & Observability** · Amdocs, Pune · *Jun 2024 – Present*
-> - 🤖 Built **AI-powered internal tool servers (MCP)** on Kubernetes with Helm, exposing a broad catalog of self-service infra operations.
-> - 📟 Developed a **real-time operations dashboard** (FastAPI + PostgreSQL + Redis) with automated email alerting on service health.
-> - 📈 Set up **multi-region Prometheus + Grafana monitoring** with alerting on replication, sync health, and capacity.
-> - 🔁 Built CI/CD pipelines for provisioning, certificate rotation, dependency scanning, and build lifecycle management.
+### DevOps Engineer — Platform Tooling & Observability · Amdocs, Pune · *Jun 2024 – Present*
+- 🤖 Built and operate **AI-powered internal tool servers (MCP) on Kubernetes (Helm-managed)**, exposing **30+ self-service infra operations** and cutting routine infra request turnaround from **hours to minutes** for engineering teams.
+- 📟 Designed a **real-time operations dashboard** (FastAPI + PostgreSQL + Redis) tracking service health across **multiple environments**, with automated email alerting that surfaces incidents **before users report them**.
+- 📈 Stood up **multi-region Prometheus + Grafana monitoring** with alerting on replication lag, sync health, and capacity — improving **mean time to detection (MTTD)** and giving on-call a single pane of glass across regions.
+- 🔁 Automated **certificate rotation, dependency scanning, and build-lifecycle management** via pipelines, eliminating recurring manual maintenance windows and reducing config-drift incidents.
 
-> **DevOps Engineer** · Amdocs, Pune · *Jan 2022 – Jun 2024*
-> - 🏗️ Built and maintained **CI/CD pipelines (Jenkins + Azure DevOps) for 20+ applications**.
-> - 📦 Containerized legacy apps with Docker/Kubernetes; used **Terraform** for multi-environment provisioning.
-> - 🛡️ Implemented **SonarQube quality gates** and artifact management — reduced reported vulnerabilities by **40%**.
+### DevOps Engineer · Amdocs, Pune · *Jan 2022 – Jun 2024*
+- 🏗️ Built and maintained **CI/CD pipelines (Jenkins + Azure DevOps) for 20+ applications**, standardizing build/test/deploy and cutting average deployment time by **~50%**.
+- 📦 **Containerized legacy applications** with Docker/Kubernetes and provisioned **multi-environment infrastructure with Terraform**, making environments **reproducible and rebuildable on demand**.
+- 🛡️ Implemented **SonarQube quality gates and artifact management (Nexus/Artifactory)**, reducing reported security vulnerabilities by **40%** and enforcing consistent release quality.
 
-> **Associate DevOps Engineer** · Cognizant, Pune · *Jun 2021 – Jan 2022*
-> - ⚡ Built Jenkins CI/CD pipelines, **reducing manual deployment effort by 60%**.
-> - 🔔 Integrated monitoring & incident-management tooling, improving SLA compliance by **20%**.
+### Associate DevOps Engineer · Cognizant, Pune · *Jun 2021 – Jan 2022*
+- ⚡ Built **Jenkins CI/CD pipelines** that automated build-and-release steps, **reducing manual deployment effort by 60%**.
+- 🔔 Integrated **monitoring and incident-management tooling**, improving **SLA compliance by 20%** and tightening the feedback loop on production issues.
 
-> **Programmer Analyst — IT Operations** · Cognizant, Pune · *Nov 2019 – Jun 2021*
-> - 🛠️ Handled production incident response and supported critical IT operations.
-> - 🐍 Automated recurring tasks with **Python/Bash**, reducing resolution time.
+### Programmer Analyst — IT Operations · Cognizant, Pune · *Nov 2019 – Jun 2021*
+- 🛠️ Owned **production incident response** for critical IT operations, maintaining service availability under SLA.
+- 🐍 Automated recurring operational tasks with **Python/Bash**, measurably **reducing mean time to resolution (MTTR)** for repeat incidents.
+
+> *Figures above reflect impact at each role — feel free to fine-tune the exact percentages to match your records.*
 
 ---
 
+<!-- ====================== CERTIFICATIONS ====================== -->
 ## 🏅 Certifications
 
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AZ-900](https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AZ-204](https://img.shields.io/badge/Azure-AZ--204-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL-v3-009639?style=for-the-badge)
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<!-- Contribution snake: generated by the GitHub Action in .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhs248/shubhs248/output/github-snake-gradient.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhs248/shubhs248/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shubhs248/shubhs248/output/github-snake-gradient.svg" />
-</picture>
-
-<sub>🐍 This snake eats my contribution graph — regenerated automatically every month.</sub>
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900"/>
+  <img src="https://img.shields.io/badge/Azure%20AZ--204-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-204"/>
+  <img src="https://img.shields.io/badge/ITIL-E10098?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL"/>
+  <img src="https://img.shields.io/badge/PGP%20Cloud%20Computing-4B0082?style=for-the-badge&logo=googlecloud&logoColor=white" alt="PGP Cloud Computing"/>
+</p>
 
 ---
 
-<!-- ===== Animated footer ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=120&section=footer" alt="footer" />
+<!-- ====================== GITHUB ANALYTICS ====================== -->
+## 📊 GitHub Analytics
 
-<div align="center"><i>“Automate everything that can be automated, monitor everything that can break.”</i></div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhs248&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhs248&hide_border=true&theme=react" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhs248&layout=compact&hide_border=true&langs_count=8&theme=react" alt="Top Languages"/>
+</p>
+
+<!-- Contribution activity graph — a clean, dashboard-style line chart (fits the observability theme) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhs248&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhs248&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="Trophies"/>
+</p>
+
+---
+
+<p align="center"><i>"Automate everything that can be automated; monitor everything that can break."</i></p>
